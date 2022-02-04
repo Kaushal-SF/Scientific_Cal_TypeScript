@@ -1,0 +1,1 @@
+"In this practical Scientific calulator javascript file converted in Typescript file."
